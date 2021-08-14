@@ -6,7 +6,7 @@ A new Flutter application.
 
 This project is a starting point for a Flutter application.
 
--(ScreenShot)(https://github.com/SalikSayyed/FlutterCMDApp/blob/main/Screenshot_2021-03-20-14-58-20-561_com.salik.flutter_firebase.png)
+-![Image](https://github.com/SalikSayyed/FlutterCMDApp/blob/main/Screenshot_2021-03-20-14-58-20-561_com.salik.flutter_firebase.png)
 
 A few resources to get you started if this is your first Flutter project:
 
